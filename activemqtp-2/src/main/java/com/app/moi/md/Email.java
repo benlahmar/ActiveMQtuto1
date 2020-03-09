@@ -7,6 +7,7 @@ package com.app.moi.md;
  * @author BEN LAHMAR EL HABIB
  *
  */
+
 public class Email {
 
   private String to;

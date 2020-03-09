@@ -20,6 +20,7 @@ import org.springframework.jms.support.converter.MessageType;
 import com.app.moi.md.Email;
 @SpringBootApplication
 @EnableJms
+
 public class Activemqtp2Application {
 
 	public static void main(String[] args) {
